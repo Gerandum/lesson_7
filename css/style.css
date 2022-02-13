@@ -115,13 +115,13 @@ body {
 .text-5 {
 	margin-top: 24px;
 	min-height: 40px;
-	margin-bottom: 40px;
+	
 }
 
 /* next file */
 
 .main-alt{
-	margin-top:  40px;
+	padding-top: 40px;
 	color: #1E212C;
 	margin-left: 100px;
 	max-width: 390px;
@@ -154,7 +154,6 @@ line-height: 130%;
 	display: inline-block;
 	width: 161px;
     height: 44px;
-    margin-left: 100px;
 	margin-top: 48px;
 	background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
     border-radius: 4px;
